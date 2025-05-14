@@ -1,0 +1,44 @@
+          div > p {
+             background-color: yellow;
+         }
+        * {
+             text-align: center;
+             color: blue;
+         }
+               body {
+              align-items: center;
+              font-family: 'Arial', sans-serif;
+              background-color: lightgreen;
+          }
+          header h1 {
+              color: darkblue;
+              text-align: justify;
+              font-weight: bold;
+          }
+          h2 {
+              color: darkgreen;
+              font-size: 24px;
+              font-style: italic;
+              text-align: justify;
+          }
+          p {
+              font-size: 16px;
+              color: black;
+              }
+  
+          .colorbox {
+              background-color: lightskyblue;
+              margin: 10px;
+              padding: 20px;
+          }
+         #myarticle {
+              background-color: lightpink;
+              padding: 20px;
+              margin: 10px;
+              border: 1px solid #ffffff; 
+          }
+          img {
+              max-width: 600px;
+              height: auto;
+              margin-top: 20px;
+          }
